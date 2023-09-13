@@ -8,7 +8,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 [🔗 Clique aqui para acessar](https://d-broder.github.io/nlw-esports-explorer)
 
-## 🔧 Teclonogias
+## 🔧 Tecnologias
 
 - HTML
 - CSS
